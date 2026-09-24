@@ -1,188 +1,215 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Fiza%20Nazz&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20%7C%20SaaS%20Builder%20%7C%20Full-Stack%20Architect&descSize=18&descAlignY=55&descAlign=50" />
-
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%A4%96+Building+Agentic+AI+Systems+%7C+RAG+%7C+Multi-Agent+Pipelines;%F0%9F%9A%80+Next.js+%7C+Python+%7C+Cloud+DevOps+%7C+SaaS+Architecture;%F0%9F%8C%8D+112%2B+Repositories+%7C+Open+Source+Contributor+from+Pakistan" alt="Typing SVG" /></a>
+<!-- VIBRANT NEON GRADIENT HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,30:4FACFE,70:7F00FF,100:E100FF&height=220&section=header&text=FIZA%20NAZZ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20SaaS%20Architect%20%E2%80%A2%20Full-Stack%20Developer&descSize=19&descAlignY=62&descAlign=50" />
 
 </div>
 
-<!-- ABOUT ME SECTION -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<!-- HERO INTRO WITH CODER GIRL AVATAR -->
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👋 Hello World, I'm <span style="color:#00F2FE;">Fiza Nazz</span> 🚀</h2>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=false&vCenter=true&width=550&height=55&lines=%F0%9F%A4%96+Agentic+AI+Engineer+%26+SaaS+Builder;%E2%9A%A1+Autonomous+Agents+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+MCP;%F0%9F%9A%80+Full-Stack+Architect+(Next.js+16+%C2%B7+Python);%E2%98%81%EF%B8%8F+Cloud-Native+%C2%B7+Event-Driven+Microservices" alt="Typing SVG" />
+      </a>
+      <p>
+        I'm an <b>Agentic AI Engineer</b> & <b>Full-Stack Systems Architect</b> from <b>Pakistan 🇵🇰</b> with <b>112+ open-source repositories</b>. I design production-grade autonomous agent systems, event-driven architectures, and scalable cloud SaaS applications with delightful UI/UX.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_SaaS-00F2FE?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pull_Shark-Silver_x3-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Location-Pakistan_🇵🇰-E100FF?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/coder_girl.gif" width="280" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0,242,254,0.3);" alt="Coder Girl" />
+    </td>
+  </tr>
+</table>
 
-```yaml
-name: Fiza Nazz
-location: Pakistan 🇵🇰
-current_focus: Agentic AI Engineering & SaaS Development
+<!-- PACMAN RETRO GAME DIVIDER -->
+<div align="center">
+  <img src="./assets/pacman.gif" width="100%" height="28" alt="Pacman Game" />
+</div>
 
-roles:
-  - 🤖 Agentic AI Engineer
-  - 🏗️ SaaS Builder & Architect
-  - 💻 Full-Stack Developer (Next.js + Python)
-  - ☁️ Cloud & DevOps Engineer
+<br>
 
-expertise:
-  ai_ml: [RAG, Multi-Agent Systems, MCP, LLMs, LangChain, CrewAI, OpenAI]
-  frontend: [Next.js 16, React 19, TypeScript 5, Tailwind CSS v4, Three.js, GSAP]
-  backend: [FastAPI, Node.js, Express.js, Microservices, Event-Driven Architecture]
-  cloud_devops: [AWS, Docker, Kubernetes, Kafka, Dapr, Redis]
-  databases: [PostgreSQL, MongoDB, Supabase, Firebase]
-  tools: [Git, Figma, Resend, Vercel]
+<!-- TERMINAL ABOUT ME -->
+## 💻 `system.diagnostic --profile`
 
-achievements:
-  - 🏆 Pull Shark x3 (Silver Badge)
-  - 📦 112+ Public Repositories
-  - ⭐ 15 Starred Repositories
-  - 🏢 Enterprise-Grade SaaS Projects (GoFreeHold, OmniCare)
-
-fun_fact: "I turn complex business problems into elegant AI-powered solutions ✨"
+```json
+{
+  "developer": "Fiza Nazz",
+  "title": "Agentic AI Engineer & SaaS Builder",
+  "origin": "Pakistan 🇵🇰",
+  "stats": {
+    "public_repos": "112+",
+    "achievements": "Pull Shark x3 (Silver)",
+    "architecture": "Domain-Driven Design (DDD) & Microservices"
+  },
+  "core_competencies": [
+    "Autonomous Multi-Agent Workflows (CrewAI, LangChain, MCP)",
+    "Production Retrieval-Augmented Generation (RAG) & Vector DBs",
+    "Modern Full-Stack Engineering (Next.js 16, React 19, TypeScript 5)",
+    "Distributed Cloud Systems (FastAPI, Docker, Kubernetes, Kafka, Dapr)"
+  ],
+  "mission": "Turning complex enterprise challenges into autonomous, high-impact AI systems."
+}
 ```
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Arsenal
+<!-- TECH STACK SHOWCASE -->
+## 🛠️ Tech Arsenal & Frameworks
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
+### 🤖 AI, Machine Learning & Autonomous Agents
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-00F2FE?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-00C7B7?style=for-the-badge&logo=semantic-web&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-FF4500?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5722?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-7F00FF?style=for-the-badge&logo=semantic-web&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_Protocol-E100FF?style=for-the-badge&logo=lightning&logoColor=white" />
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,opencv&theme=dark" />
+  </a>
 </p>
 
-### 🌐 Frontend & Full-Stack
+### 🌐 Frontend, 3D & UI/UX Design
 <p>
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript_5-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,threejs,html,css,redux,figma&theme=dark" />
+  </a>
 </p>
 
-### ⚙️ Backend & APIs
+### ☁️ Cloud, DevOps & Distributed Microservices
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,kafka,linux,bash,git,github,githubactions,vercel&theme=dark" />
+  </a>
 </p>
 
-### ☁️ Cloud & DevOps
+### 🗄️ Databases & State Management
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dapr-0D2192?style=for-the-badge&logo=dapr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-### 🔧 Tools & Design
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,firebase,postman,vscode&theme=dark" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## 🏆 Featured Projects
+<!-- RETRO ARCADE GAME ZONE -->
+## 🎮 Retro Arcade Zone
 
 <div align="center">
-<table>
+  <p><i>Level Complete! Running the obstacle course...</i></p>
+  <img src="./assets/dino.gif" width="90%" style="border-radius: 12px; border: 1px solid #30363D;" alt="Dino Runner Game" />
+</div>
+
+---
+
+<!-- FEATURED PROJECTS SHOWCASE -->
+## 🏆 Flagship Projects
+
+<div align="center">
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏢 GoFreeHold
-**Enterprise Property Management OS**
-<br>
-DDD Architecture · 6 Role-Based Portals · Double-Entry Rent Ledger · EJARI PDF Generation
+> **Enterprise Property Management OS (DDD Architecture)**
+- 6 Role-Based Portals (Admin, Owner, Tenant, Vendor, etc.)
+- Real-Time Double-Entry Rent Ledger & Dues Engine
+- Official Dubai Land Department (EJARI) 3-Page Bilingual PDF Engine
 <br><br>
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/Fiza-Nazz/GoFreeHold)
-[![View](https://img.shields.io/badge/View_Project-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/Fiza-Nazz/GoFreeHold)
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/TypeScript_5-007ACC?style=flat-square&logo=typescript" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite" />
+<br>
+👉 [**Explore GoFreeHold Repository**](https://github.com/Fiza-Nazz/GoFreeHold)
 
 </td>
-<td width="50%">
-
-### 🏥 OmniCare
-**Healthcare Management System**
-<br>
-Full-Stack Healthcare Platform · Patient Management · TypeScript
-<br><br>
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/Fiza-Nazz/OmniCare)
-[![View](https://img.shields.io/badge/View_Project-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/Fiza-Nazz/OmniCare)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Rehab AI Companion
-**Agentic AI Rehabilitation Platform**
-<br>
-AI-powered rehab for prosthetics · Daily check-ins · Setback forecasting · Exercise planning
+> **Agentic AI Rehabilitation Platform for Prosthetics Users**
+- Autonomous daily health check-in agent
+- Predictive setback forecasting & rehabilitation analytics
+- Real-time adaptive exercise planning
 <br><br>
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/Fiza-Nazz/Rehab_Ai_Companion)
-[![View](https://img.shields.io/badge/View_Project-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/Fiza-Nazz/Rehab_Ai_Companion)
-
-</td>
-<td width="50%">
-
-### 🎓 DevVerse Academy
-**Next-Gen Tech Academy Platform**
+<img src="https://img.shields.io/badge/Agentic_AI-00F2FE?style=flat-square&logo=openai" />
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" />
 <br>
-3D Animations · Glassmorphism UI · Enrollment Pipeline · Three.js · GSAP
-<br><br>
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/Fiza-Nazz/devverse-academy)
-[![View](https://img.shields.io/badge/View_Project-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/Fiza-Nazz/devverse-academy)
+👉 [**Explore Rehab AI Companion**](https://github.com/Fiza-Nazz/Rehab_Ai_Companion)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧃 Salar Juice Website
-**Premium Beverage Brand Website**
-<br>
-Scroll-based animations · Framer Motion · Swiper.js · Lenis smooth scroll
+### 🎓 DevVerse Academy
+> **Next-Generation Tech Academy Portal**
+- Interactive 3D graphics built with Three.js & GSAP
+- High-conversion glassmorphism UI & responsive animations
+- Full enrollment automated pipeline with Resend
 <br><br>
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/Fiza-Nazz/Salar_juice_website)
-[![View](https://img.shields.io/badge/View_Project-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/Fiza-Nazz/Salar_juice_website)
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
+<br>
+👉 [**Explore DevVerse Academy**](https://github.com/Fiza-Nazz/devverse-academy)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚖️ Lawfirm Website
-**Professional Legal Services Platform**
-<br>
-Fully responsive & animated · Next.js 16 · Modern UI/UX
+### ⚡ Hackathon-02 Cloud-Native Todo
+> **Production-Grade Event-Driven Microservices**
+- Microservices built with FastAPI, Kubernetes & Dapr
+- Distributed event streaming powered by Apache Kafka
+- Integrated natural language AI chatbot assistant
 <br><br>
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/Fiza-Nazz/Lawfirm_Website)
-[![View](https://img.shields.io/badge/View_Project-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/Fiza-Nazz/Lawfirm_Website)
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" />
+<br>
+👉 [**Explore Hackathon-02**](https://github.com/Fiza-Nazz/Hackathon-02)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧃 Salar Juice Website
+> **Premium FMCG Brand Experience**
+- Scroll-triggered physics animations with Framer Motion
+- Inertial smooth scrolling with Lenis & Swiper.js
+- Modern Tailwind CSS v4 design system
+<br><br>
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css" />
+<br>
+👉 [**Explore Salar Juice Website**](https://github.com/Fiza-Nazz/Salar_juice_website)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ Lawfirm Modern Platform
+> **Corporate Legal Services Web Portal**
+- Elegant dark/light corporate typography
+- Client onboarding & case scheduling workflows
+- Performance-optimized SSR architecture
+<br><br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" />
+<br>
+👉 [**Explore Lawfirm Platform**](https://github.com/Fiza-Nazz/Lawfirm_Website)
 
 </td>
 </tr>
@@ -191,76 +218,45 @@ Fully responsive & animated · Next.js 16 · Modern UI/UX
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
+<!-- GITHUB ANALYTICS DASHBOARD -->
+## 📊 GitHub Analytics & Insights
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fiza-Nazz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Fiza-Nazz&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" />
+  <img src="https://streak-stats.demolab.com/?user=Fiza-Nazz&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fiza-Nazz&theme=radical" width="48%" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiza-Nazz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9&langs_count=8" />
-</div>
-
----
-
-<!-- GITHUB TROPHIES -->
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fiza-Nazz&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fiza-Nazz&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fiza-Nazz&theme=radical" width="48%" />
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Graph
+<!-- SOCIAL CONNECT & FOOTER -->
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fiza-Nazz&bg_color=0d1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&area_color=6E40C9&hide_border=true&custom_title=Fiza's%20Contribution%20Graph" />
-</div>
-
----
-
-<!-- RANDOM DEV QUOTE -->
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<!-- CONNECT WITH ME -->
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.instagram.com/zii_tech_63/">
+  <a href="https://www.instagram.com/zii_tech_63/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/Fiza-Nazz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/Fiza-Nazz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-00F2FE?style=for-the-badge&logo=github&logoColor=000000" />
+  </a>
+  &nbsp;
+  <a href="mailto:fizanaazz321@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-7F00FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
----
+<br>
 
-<!-- PROFILE STATS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fiza-Nazz&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Fiza-Nazz?style=for-the-badge&logo=github&label=Followers&color=6E40C9" />
-  <img src="https://img.shields.io/badge/Repos-112+-6E40C9?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Fiza-Nazz&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Fiza-Nazz?style=for-the-badge&logo=github&label=Followers&color=7F00FF" />
+  <img src="https://img.shields.io/badge/Repositories-112+-E100FF?style=for-the-badge&logo=git" />
 </div>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- ANIMATED FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" />
+<!-- MATCHING NEON FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,30:4FACFE,70:7F00FF,100:E100FF&height=120&section=footer" />
