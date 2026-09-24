@@ -125,12 +125,25 @@
 
 ---
 
-<!-- RETRO ARCADE GAME ZONE -->
-## 🎮 Retro Arcade Zone
+<!-- LIVE CONTRIBUTION GRAPH ARCADE GAMES -->
+## 🕹️ Contribution Graph Arcade — Pac-Man & Breakout
 
 <div align="center">
-  <p><i>🕹️ 8-Bit Obstacle Course — Leveling Up Code Every Single Day</i></p>
-  <img src="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/main/assets/dino.gif" width="90%" style="border-radius: 12px; border: 1px solid #1E293B;" alt="Dino Runner Game" />
+  <p><i>👻 Pac-Man & Ghosts Chasing Across My Real GitHub Contributions</i></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+
+  <br><br>
+
+  <p><i>🧱 Atari Breakout — Smashing Contribution Blocks</i></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/output/breakout-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/output/breakout-contribution-graph.svg" />
+    <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/output/breakout-contribution-graph-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
