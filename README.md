@@ -148,111 +148,6 @@
 
 ---
 
-<!-- FLAGSHIP PROJECTS SHOWCASE -->
-## 🏆 Flagship Projects
-
-<div align="center">
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 GoFreeHold
-> **Enterprise Property Management OS (DDD Architecture)**
-- **Backend**: PHP 8.3 & Laravel 11 with Domain-Driven Design
-- **Frontend**: React 19 & TypeScript 5 with 6 Role-Based Portals
-- **Engine**: Double-Entry Rent Ledger & Official Dubai EJARI PDF Generator
-<br><br>
-<img src="https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/TypeScript_5-007ACC?style=flat-square&logo=typescript" />
-<br>
-👉 [**Explore GoFreeHold Repository**](https://github.com/Fiza-Nazz/GoFreeHold)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Rehab AI Companion
-> **Agentic AI Rehabilitation Platform for Prosthetics Users**
-- **Autonomous Agent**: Intelligent daily health check-in companion
-- **Predictive Analytics**: Automated setback forecasting model
-- **Dynamic Workflows**: Adaptive exercise planning based on patient feedback
-<br><br>
-<img src="https://img.shields.io/badge/Agentic_AI-00F5FF?style=flat-square&logo=openai" />
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" />
-<br>
-👉 [**Explore Rehab AI Companion**](https://github.com/Fiza-Nazz/Rehab_Ai_Companion)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Hackathon-02 Cloud-Native Todo
-> **Production Event-Driven Microservices Platform**
-- **Microservices**: High-performance FastAPI backend with Dapr
-- **Event Streaming**: Apache Kafka real-time message brokering
-- **Cloud-Native**: Dockerized deployment orchestrated on Kubernetes
-<br><br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" />
-<br>
-👉 [**Explore Hackathon-02**](https://github.com/Fiza-Nazz/Hackathon-02)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 DevVerse Academy
-> **Next-Generation 3D Tech Academy Platform**
-- **Visuals**: WebGL 3D animations powered by Three.js & GSAP
-- **Interface**: High-conversion glassmorphism UI with responsive design
-- **Automation**: Full enrollment pipeline integrated with Resend
-<br><br>
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
-<br>
-👉 [**Explore DevVerse Academy**](https://github.com/Fiza-Nazz/devverse-academy)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧃 Salar Juice Website
-> **Premium FMCG Brand Experience**
-- Scroll-triggered physics animations with Framer Motion
-- Inertial smooth scrolling with Lenis & Swiper.js
-- Modern Tailwind CSS v4 design system
-<br><br>
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css" />
-<br>
-👉 [**Explore Salar Juice Website**](https://github.com/Fiza-Nazz/Salar_juice_website)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚖️ Lawfirm Modern Platform
-> **Corporate Legal Services Web Portal**
-- Elegant dark/light corporate typography
-- Client onboarding & case scheduling workflows
-- Performance-optimized SSR architecture
-<br><br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" />
-<br>
-👉 [**Explore Lawfirm Platform**](https://github.com/Fiza-Nazz/Lawfirm_Website)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 <!-- GITHUB ANALYTICS DASHBOARD -->
 ## 📊 GitHub Analytics & Insights
 
@@ -263,7 +158,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fiza-Nazz&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fiza-Nazz&theme=radical" width="48%" />
+  <img src="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/main/assets/top_languages.svg" width="48%" />
 </div>
 
 ---
