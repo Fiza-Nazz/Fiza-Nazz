@@ -38,11 +38,6 @@
 
 </div>
 
-<!-- PACMAN RETRO GAME DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Fiza-Nazz/Fiza-Nazz/main/assets/pacman.gif" width="100%" height="24" alt="Pacman Game Divider" />
-</div>
-
 <br>
 
 <!-- MAC-STYLE SYSTEM DIAGNOSTIC TERMINAL -->
